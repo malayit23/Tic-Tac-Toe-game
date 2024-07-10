@@ -20,7 +20,7 @@ section{
     width: 60vmin;
     display: flex;
     flex-wrap: wrap;
-    gap: 0.8rem;
+    gap: 1rem;
     justify-content: center;
     align-content: center;
 }
